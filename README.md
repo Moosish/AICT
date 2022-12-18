@@ -1,7 +1,7 @@
 Dataset:https://drive.google.com/drive/folders/1NhY_zQdUwQ8yOzjZ6Za-4wOLehlCgn0M?usp=sharing
 
 
-Some of the following make come as part of your python or CUDA ToolKit Install
+Some of the following may be installed as part of your python or CUDA ToolKit Install
 
 Dependancies:
 accelerate                0.14.0                   pypi_0    pypi
